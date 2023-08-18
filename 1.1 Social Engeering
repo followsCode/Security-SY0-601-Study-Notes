@@ -1,0 +1,22 @@
+# SY0-601 Study 
+## 1.0 Threats,  Attacks, and Vulnerabilities
+## 1.1 Social Engineering Techniques
+| Technique | Description |
+| ----------- | ---------|
+|Phishing | When a attacker attempts to elicit sensitive information, such as passwords and credit card numbers, in the form of an email pretending to be from a reputable establishment. |
+|Smishing | When an attacker attempts to elicit sensitive information from a victim, through SMS/text messages to appear as legitimate source. |
+|Vishing | When an attacker attempts to elicit sensitive information as a legitimate/trusted source via telephone or voice calling|
+|SPAM | Unwarranted Emails that get sent in bulk to different victim addresses. Emails can come from legitimate source as well as an attacker.|
+|SPIM | SPAM sent through Instant Messenger|
+|Spear Phishing | A "phishing" technique that specifically targets certain groups to elicit sensitive information.|
+|Dumpster Diving| The practice of retrieving sensitive information from trash containers
+|Shoulder Surfing| Shoulder surfing is when an attacker looks over the victims shoulder to gather sensitive information such as passwords and credit numbers. |
+|Pharming| The practice of directing internet users to a fake website that appears to be a legitimate website in order to obtain Personal Identifiable Information such as credit cards, passwords, or accounts numbers.|
+|Tailgating| A social engineering technique where an unauthorized individual follows an authorized individual to restricted area to gain access to sensitive information or access to a system. |
+|Elicit information| Is the subtle extraction of information during what seems to be a normal and innocent conversation. |
+|Whaling| A common cyber attack that focuses on high-profile targets that a large profile target, such as CEO's of a company| 
+|Prepending| Prepending refers to when an attacker prepends, or attaches, a trustworthy value like "RE:" or "MAILSAFE: PASSED" to a message in order to make the message appear more trustworthy. Values like that are usually automatically added by a user's email client. This can make a user think their email client trusts the message and is safe to open.|
+|Identify Fraud| The act of impersonating an individual by using a victim's personal information.|
+|Invoice Scams| The act of using a bogus invoice
+
+
